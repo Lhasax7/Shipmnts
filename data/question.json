@@ -1,0 +1,70 @@
+[
+    {
+    "title": "What is the best way to learn programming?",
+    "body": "I am interested in learning programming but I am not sure where to start. Can someone suggest the best way to learn programming?",
+    "user": "6141c7d0866fa901b6eb662c",
+    "tags": [
+    "programming",
+    "learning",
+    "beginner"
+    ],
+    "views": 20,
+    "upvotes": 10,
+    "downvotes": 2,
+    "answers": [
+    "6142e6f1a6de9f63b45113ca",
+    "6142e79ea6de9f63b45113cc"
+    ],
+    "comments": [
+    "6142e9b2a6de9f63b45113d2",
+    "6142e9c1a6de9f63b45113d3"
+    ],
+    "is_deleted": false,
+    "created_at": "2021-09-15T09:30:00.000Z",
+    "updated_at": "2021-09-15T10:15:00.000Z"
+    },
+    {
+    "title": "What are the benefits of using Node.js?",
+    "body": "I have heard a lot about Node.js but I am not sure what the benefits are. Can someone explain the benefits of using Node.js?",
+    "user": "6141c7d0866fa901b6eb662d",
+    "tags": [
+    "node.js",
+    "javascript"
+    ],
+    "views": 15,
+    "upvotes": 5,
+    "downvotes": 1,
+    "answers": [
+    "6142e7c7a6de9f63b45113cd"
+    ],
+    "comments": [
+    "6142e9d3a6de9f63b45113d4"
+    ],
+    "is_deleted": false,
+    "created_at": "2021-09-16T11:45:00.000Z",
+    "updated_at": "2021-09-16T12:30:00.000Z"
+    },
+    {
+    "title": "How do I fix the \"cannot read property of undefined\" error?",
+    "body": "I am getting the \"cannot read property of undefined\" error in my code. Can someone help me fix this error?",
+    "user": "6141c7d0866fa901b6eb662e",
+    "tags": [
+    "javascript",
+    "error-handling"
+    ],
+    "views": 30,
+    "upvotes": 8,
+    "downvotes": 4,
+    "answers": [
+    "6142e7e0a6de9f63b45113ce",
+    "6142e81ca6de9f63b45113cf"
+    ],
+    "comments": [
+    "6142ea19a6de9f63b45113d5",
+    "6142ea2aa6de9f63b45113d6"
+    ],
+    "is_deleted": false,
+    "created_at": "2021-09-17T14:00:00.000Z",
+    "updated_at": "2021-09-17T14:45:00.000Z"
+    }
+    ]
