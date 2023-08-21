@@ -1,2 +1,2 @@
 # Shipmnts
-For Shipmnts internship 
+For Shipmnts internship - Run using Postman API
